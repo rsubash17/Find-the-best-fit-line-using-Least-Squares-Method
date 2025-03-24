@@ -48,8 +48,10 @@ plt.show()
 ```
 
 ## Output:
-![output](./output1.png)
-![output](./output.png)
+![output1](https://github.com/user-attachments/assets/48b6c433-27be-4d54-ba5c-555ecf7e4b0c)
+![image](https://github.com/user-attachments/assets/d49632a4-d86f-4b05-bbc0-2cffaa00be86)
+
+
 
 
 ## Result:
